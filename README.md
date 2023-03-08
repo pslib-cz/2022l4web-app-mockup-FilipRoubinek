@@ -9,7 +9,7 @@ Staňte se kapitánem pirátské lodě na cestou za dobrodružstvím. Během sv�
 #### Mělčiny
 ### Nepřátelské lodě
 #### Nepřátelští piráté
-#### Krélovské lodě
+#### Královské lodě
 ### Ostrovy
 ### Mořské víry
 ### Mořské monstra
