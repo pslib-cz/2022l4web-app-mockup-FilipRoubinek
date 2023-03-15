@@ -2,16 +2,6 @@
 ## Popis
 Staňte se kapitánem pirátské lodě na cestou za dobrodružstvím. Během své cesty narazíte na mnoho překážek, jako jsou nepřátelské lodě, divoké mořské víry, mořské obludy jako je bájný Kraken. Cílem je se dostávat na ostrovy pro zajištění surovin pro přežití a opravu vaší lodě. Na některých ostrovech je možné získat i vylepšení pro loď.
 ## Design a grafika
-### Pirátská loď
-### Moře
-#### Hluboké moře
-#### Mělké moře
-#### Mělčiny
-### Nepřátelské lodě
-#### Nepřátelští piráté
-#### Královské lodě
-### Ostrovy
-### Mořské víry
 ### Mořské monstra
 ## Struktura
 
@@ -52,3 +42,5 @@ Některé materiály (hřebíky, látky) je možno zakoupit pouze na nezávislý
 
 ## Nástroje
 Během plavby je nutno opravovat loď. Ve hře se nachází 2 typy nástrojů. Na sbírání a upravování materiálů (sekery, pily, hoblík) a na přímé opravování (kladiva, jehly na šití)
+## Plavby
+Na prvním ostrově se zakoupí jedna z několika map k dalšímu ostrovu, je možno zakouipit jen jednu mapu. Na dalším ostrovu jsou zadány informace k dalšímu ostrovu. Na některých ostrovech je možnost cestovat na více ostrovů. Vždy je možnost cestovat na předchozí ostrovy.
