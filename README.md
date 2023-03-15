@@ -22,7 +22,7 @@ Staňte se kapitánem pirátské lodě na cestou za dobrodružstvím. Během sv�
 ## Pravidla
 
 
-##Nápady
+## Nápady
 
 Age of empires styl mapy
 Na začátku dána měna, za kterou se zakoupí věci na plavbu (zbraně, potraviny, materiály na opravu lodě)
