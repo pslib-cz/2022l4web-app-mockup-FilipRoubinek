@@ -1,9 +1,4 @@
 # Pirate Island Travel
-## Popis
-Staňte se kapitánem pirátské lodě na cestou za dobrodružstvím. Během své cesty narazíte na mnoho překážek, jako jsou nepřátelské lodě, divoké mořské víry, mořské obludy jako je bájný Kraken. Cílem je se dostávat na ostrovy pro zajištění surovin pro přežití a opravu vaší lodě. Na některých ostrovech je možné získat i vylepšení pro loď.
-## Design a grafika
-### Mořské monstra
-## Struktura
 
 ## UI/UX
 
@@ -44,3 +39,5 @@ Některé materiály (hřebíky, látky) je možno zakoupit pouze na nezávislý
 Během plavby je nutno opravovat loď. Ve hře se nachází 2 typy nástrojů. Na sbírání a upravování materiálů (sekery, pily, hoblík) a na přímé opravování (kladiva, jehly na šití)
 ## Plavby
 Na prvním ostrově se zakoupí jedna z několika map k dalšímu ostrovu, je možno zakouipit jen jednu mapu. Na dalším ostrovu jsou zadány informace k dalšímu ostrovu. Na některých ostrovech je možnost cestovat na více ostrovů. Vždy je možnost cestovat na předchozí ostrovy.
+## Mapa
+Mapa slouží k rychlé orientaci v progresu hry. Cestování je možno vždy jen po jednom ostrově. Ostrovy jsou postupně odhalovány postupem hrou. Další ostrov na mapě je bez speciálního označení a následně po doražení na ostrov je označem typem ostrova (nezávislý, pirátský, královský).
