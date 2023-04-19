@@ -22,6 +22,8 @@ Stejně jako pitná voda, je vždy nutno udělat vysokou zásobu. Potraviny vša
 
 Hra je hraná systémem karet. Kromě vody a potravin jsoou veškeré předměty označeny kartama. Veškeré karty se nachází v inventáři, odkud je možno je zahrát. Karty jsou rozřazeny do tříd, kdy 1. třída je nejlepší.
 
+![Card Example](https://github.com/pslib-cz/2022l4web-app-mockup-FilipRoubinek/blob/9201648e04efdab777527bb0570fe29c6da068e1/PirateRPG_Mockup/Card_Mockup_1st_Rifle.svg)
+
 ### Materiály na opravu
 Některé materiály (hřebíky, látky) je možno zakoupit pouze na nezávislých ostrovech. Některé materiály jsou dostupné i na prázdných ostrovech, na kterých je možno za pomocí určitých nástrojů nasbírat a použít.
 
@@ -64,4 +66,28 @@ Opuštěné ostrovy jsou jen zastávkou v průběhu cesty. Je na nich možno zí
 
 ## Příklady vzhledu hry
 
+### Menu
+
 ![Menud example](https://github.com/pslib-cz/2022l4web-app-mockup-FilipRoubinek/blob/70a00e3d013d3eda9c3d389f73cff251aaece062/PirateRPG_Mockup/Menu.svg)
+
+### Shop
+
+![Shop Example](https://github.com/pslib-cz/2022l4web-app-mockup-FilipRoubinek/blob/9201648e04efdab777527bb0570fe29c6da068e1/Kompletace/Shop_Example.svg)
+
+### Inventory
+
+![Inventory Example](https://github.com/pslib-cz/2022l4web-app-mockup-FilipRoubinek/blob/9201648e04efdab777527bb0570fe29c6da068e1/Kompletace/Inventory_Example.svg)
+
+### Map
+
+![Map Example](https://github.com/pslib-cz/2022l4web-app-mockup-FilipRoubinek/blob/9201648e04efdab777527bb0570fe29c6da068e1/Kompletace/Map_Example.svg)
+
+### Island Options and Fight
+
+![Island Options](https://github.com/pslib-cz/2022l4web-app-mockup-FilipRoubinek/blob/9201648e04efdab777527bb0570fe29c6da068e1/Kompletace/Island_Option_Example.svg)
+
+![Island Fight](https://github.com/pslib-cz/2022l4web-app-mockup-FilipRoubinek/blob/9201648e04efdab777527bb0570fe29c6da068e1/Kompletace/Fight_Example.svg)
+
+### Pause
+
+![ESC example](https://github.com/pslib-cz/2022l4web-app-mockup-FilipRoubinek/blob/9201648e04efdab777527bb0570fe29c6da068e1/Kompletace/ESC_Example.svg)
