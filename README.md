@@ -2,16 +2,11 @@
 
 ## UI/UX
 
-## Obsah
+User Interface je lehká vektorová grafika optimalizovaná na obraz 1920x1080. Další velikosti je nutno dodělat (samotné soubory s UI jsou nahrané ve složce PirateRPG_Mockup)
 
-## Pravidla
+## Příběh hry
 
-## Nápady
-
-Age of empires styl mapy
-Na začátku dána měna, za kterou se zakoupí věci na plavbu (zbraně, potraviny, materiály na opravu lodě)
-Následně se vybere destinace, kam se pluje. Během plavby ubývají potraviny. Existují šance na náhodné eventy (bouřka, silné větry, útoky).
-Jsou tři typy ostravů. Nezávislé (ostrovy s obchody), nepřátelské (ostrovy s jinými piráty nebo královstvíma) a prázdné (ostrovy na kterých je jen příroda)
+V této hře se hráč stává pirátem. Začíná na ostrově, kde si zakoupí loď a základní potřeby a vydá se na cestu. Každý ostrov se napojuje na další ostrovy, takže je vždy kam plout, ale pozor, aby nedošly suroviny, protože se dál plout nemůže!
 
 ## Suroviny
 
@@ -28,7 +23,7 @@ Stejně jako pitná voda, je vždy nutno udělat vysokou zásobu. Potraviny vša
 Hra je hraná systémem karet. Kromě vody a potravin jsoou veškeré předměty označeny kartama. Veškeré karty se nachází v inventáři, odkud je možno je zahrát. Karty jsou rozřazeny do tříd, kdy 1. třída je nejlepší.
 
 ### Materiály na opravu
-Některé materiály (hřebíky, látky) je možno zakoupit pouze na nezávislých ostrovech. Některé materiály jsou dostupné i na prázdných ostrovech, na kterých je možno za pomocí určitých nástrojů nasbírat a použít. Úprava materiálu kombinováním karet dodává větší odolnost, to vyústí ve vyšší úroveň karty.
+Některé materiály (hřebíky, látky) je možno zakoupit pouze na nezávislých ostrovech. Některé materiály jsou dostupné i na prázdných ostrovech, na kterých je možno za pomocí určitých nástrojů nasbírat a použít.
 
 ### Nástroje
 Během plavby je nutno opravovat loď. Ve hře se nachází 2 typy nástrojů. Na sbírání a upravování materiálů (sekery, pily, hoblík) a na přímé opravování (kladiva, jehly na šití). Nástroje na opravu jsou karty bez tříd a jsou nevyčerpatelné.
@@ -38,7 +33,8 @@ Během plavby je nutno opravovat loď. Ve hře se nachází 2 typy nástrojů. N
 Zbraně se dělí na dva typy. Zbraně na blízko a na zbraně na dlouhou vzálenost. Zbraně na blízko mají obecně nižší šanci na poškození nepřítele, ale nevyžadují žádné náboje. Zbraně na dálku mají vždy víc jak 60 % na šanci poškození. Zbraně na dálku vyžadují náboje. Ty se dají zakoupit na obchodních ostrovech
 
 ## Plavby
-Na prvním ostrově se zakoupí jedna z několika map k dalšímu ostrovu, je možno zakouipit jen jednu mapu. Na dalším ostrovu jsou zadány informace k dalšímu ostrovu. Na některých ostrovech je možnost cestovat na více ostrovů. Vždy je možnost cestovat na předchozí ostrovy.
+Na prvním ostrově se zakoupí jedna z několika map k dalšímu ostrovu, je možno zakouipit jen jednu mapu. Na dalším ostrovu jsou zadány informace k dalšímu ostrovu. Na některých ostrovech je možnost cestovat na více ostrovů. Vždy je možnost cestovat na předchozí ostrovy. Plavby trvají určitou dobu (maximálně 7 minut).
+
 ## Mapa
 Mapa slouží k rychlé orientaci v progresu hry. Cestování je možno vždy jen po jednom ostrově. Ostrovy jsou postupně odhalovány postupem hrou. Další ostrov na mapě je bez speciálního označení a následně po doražení na ostrov je označem typem ostrova (nezávislý, pirátský, královský).
 
@@ -65,3 +61,7 @@ Obchodní ostrovy nabízejí zakoupit veškeré předměty nacházející se ve 
 ##### Opuštěné ostrovy
 
 Opuštěné ostrovy jsou jen zastávkou v průběhu cesty. Je na nich možno získat suroviny potřebné k pokračování v cestě.
+
+## Příklady vzhledu hry
+
+![Menud example](https://github.com/pslib-cz/2022l4web-app-mockup-FilipRoubinek/blob/70a00e3d013d3eda9c3d389f73cff251aaece062/PirateRPG_Mockup/Menu.svg)
